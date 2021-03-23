@@ -1,0 +1,7 @@
+.idea/*
+db.sqlite3
+account/migrations/00*
+trader/migrations/00*
+core/migrations/00*
+report/migrations/00*
+management/migrations/00*
